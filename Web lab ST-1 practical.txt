@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<title>Iframe</title>
+</head>
+<body>
+    <h1>watch my youtube vedio</h1>
+     <nav>
+    <iframe width="560" height="315" src="example.com" allowfullscreen></iframe>
+     </nav>
+    </body>
+    </html>
+  
